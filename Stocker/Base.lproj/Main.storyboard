@@ -12,7 +12,6 @@
                 <tabBarController title="Data" automaticallyAdjustsScrollViewInsets="NO" id="Jdm-qp-InE" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Nt1-Lc-TsK">
-                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
@@ -33,7 +32,7 @@
                 </viewControllerPlaceholder>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Uge-gC-ppU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1560" y="534"/>
+            <point key="canvasLocation" x="1625" y="-97"/>
         </scene>
         <!--Home-->
         <scene sceneID="DsT-5e-3L6">
@@ -43,7 +42,7 @@
                 </viewControllerPlaceholder>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TUt-by-HHB" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1555" y="-49"/>
+            <point key="canvasLocation" x="1619" y="534"/>
         </scene>
     </scenes>
 </document>
